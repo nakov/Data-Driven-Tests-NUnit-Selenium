@@ -1,4 +1,4 @@
-# Data-Driven-Tests-NUnit-Selenium
+# Data-Driven Tests with C#, NUnit and Selenium
 
 Data-Driven Testing == running the same test case with multiple data 
 This example demonstrates how to write data-driven NUnit tests:
