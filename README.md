@@ -8,7 +8,7 @@ This example demonstrates how to write data-driven NUnit tests:
 
 ## Code Examples
 
-```
+```cs
 [TestCase("BG", "1000", "Sofija")]
 [TestCase("BG", "5000", "Veliko Turnovo")]
 [TestCase("CA", "M5S", "Toronto")]
